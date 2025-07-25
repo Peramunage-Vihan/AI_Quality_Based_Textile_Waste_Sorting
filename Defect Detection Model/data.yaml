@@ -1,0 +1,5 @@
+train: ./train/images  # Path to training images
+val: ./valid/images      # Path to validation images
+test: ./test/images    # (Optional) Path to test images
+nc: 5                          # Number of classes
+names: ['Hole','object','Oil Spot','Thread Error','Knot']
