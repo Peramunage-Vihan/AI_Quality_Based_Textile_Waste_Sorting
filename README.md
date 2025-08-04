@@ -7,7 +7,7 @@ Innovative AI-integrated Quality Management System(QMS) for precise textile wast
 ## Models Use in Sorting System
 ### 1. Defect Detection Model
 #### 1.1 Data Pipeline Of the Model
-<img width="943" height="206" alt="Training Data(Fabric Defect Images) (2)" src="https://github.com/user-attachments/assets/36307bb8-07d2-4336-a417-9ae826335f51" />
+<img width="1903" height="206" alt="Training Data(Fabric Defect Images) (2)" src="https://github.com/user-attachments/assets/36307bb8-07d2-4336-a417-9ae826335f51" />
 
 #### 1.2 Model Architecture
  <img width="1894" height="1109" alt="1" src="https://github.com/user-attachments/assets/464e004c-7d81-437f-a010-aad5179a00fa" />
